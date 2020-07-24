@@ -1,0 +1,14 @@
+{
+	compilerOptions: {
+		rootDir: "src",
+		outDir: "dist",
+		target: "es2019",
+		jsxFactory: "render"
+	},
+
+	include: [
+		"./src/**"
+	],
+
+	target: "png"
+}
